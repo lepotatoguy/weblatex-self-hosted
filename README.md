@@ -1,6 +1,6 @@
-## Self-Hosting with Docker (No Codespaces Needed)
+## Self-Hostable WebLaTeX
 
-This repository is a Docker-based, self-hostable fork of [sanjib-sen/WebLaTeX](https://github.com/sanjib-sen/WebLaTeX), customized for local and private deployment.
+This repository is a Docker-based, self-hostable fork of [sanjib-sen/WebLaTeX](https://github.com/sanjib-sen/WebLaTeX), customized for local and private deployment, where you do not need any codespaces.
 
 ### Requirements
 
